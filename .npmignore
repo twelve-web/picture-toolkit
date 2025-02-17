@@ -1,0 +1,15 @@
+examples/
+node_modules/
+src/
+.gitignore
+tsconfig.json
+*.log
+dist/
+coverage/
+test/
+.DS_Store
+.env
+.env.*
+.eslintrc*
+.prettierrc*
+jest.config.* 
